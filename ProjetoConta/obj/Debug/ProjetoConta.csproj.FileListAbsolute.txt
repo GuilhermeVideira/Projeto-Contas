@@ -1,0 +1,246 @@
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\bdConta.mdf
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\bdConta_log.ldf
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.exe.config
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.exe
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.pdb
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csprojAssemblyReference.cache
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmPrincipal.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.FrmUsuario.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.Properties.Resources.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csproj.GenerateResource.cache
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.exe
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.pdb
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\bdConta.mdf
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\bdConta_log.ldf
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.exe.config
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.exe
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.pdb
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csprojAssemblyReference.cache
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmPrincipal.resources
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.FrmUsuario.resources
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.Properties.Resources.resources
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csproj.GenerateResource.cache
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.exe
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.pdb
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmCliente.resources
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmContaAPagar.resources
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmFornecedor.resources
+C:\Users\PHPM\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\bdConta.mdf
+C:\Users\PHPM\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\bdConta_log.ldf
+C:\Users\PHPM\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.exe.config
+C:\Users\PHPM\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.exe
+C:\Users\PHPM\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.pdb
+C:\Users\PHPM\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csproj.AssemblyReference.cache
+C:\Users\PHPM\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csproj.SuggestedBindingRedirects.cache
+C:\Users\PHPM\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmCliente.resources
+C:\Users\PHPM\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmContaAPagar.resources
+C:\Users\PHPM\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmContaAReceber.resources
+C:\Users\PHPM\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmFornecedor.resources
+C:\Users\PHPM\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmPrincipal.resources
+C:\Users\PHPM\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.FrmUsuario.resources
+C:\Users\PHPM\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.Properties.Resources.resources
+C:\Users\PHPM\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csproj.GenerateResource.cache
+C:\Users\PHPM\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csproj.CoreCompileInputs.cache
+C:\Users\PHPM\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.exe
+C:\Users\PHPM\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.pdb
+C:\Users\user\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\bdConta.mdf
+C:\Users\user\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\bdConta_log.ldf
+C:\Users\user\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.exe.config
+C:\Users\user\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.exe
+C:\Users\user\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.pdb
+C:\Users\user\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csprojAssemblyReference.cache
+C:\Users\user\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmCliente.resources
+C:\Users\user\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmContaAPagar.resources
+C:\Users\user\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmContaAReceber.resources
+C:\Users\user\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmFornecedor.resources
+C:\Users\user\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmPrincipal.resources
+C:\Users\user\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.FrmUsuario.resources
+C:\Users\user\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.Properties.Resources.resources
+C:\Users\user\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csproj.GenerateResource.cache
+C:\Users\user\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.exe
+C:\Users\user\Downloads\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.pdb
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\bdConta.mdf
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\bdConta_log.ldf
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.exe.config
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.exe
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.pdb
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csprojAssemblyReference.cache
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmCliente.resources
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmContaAPagar.resources
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmContaAReceber.resources
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmFornecedor.resources
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmPrincipal.resources
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.FrmUsuario.resources
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.Properties.Resources.resources
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csproj.GenerateResource.cache
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.exe
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.pdb
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmConsultaUsuario.resources
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmConsultaCliente.resources
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmConsultaFornecedor.resources
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmConsultaContaapagar.resources
+C:\Users\user\Downloads\ProjetoConta Cadastro Finalizado\ProjetoConta 03-05-2023\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmConsultaContaAreceber.resources
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmConsultaCliente.resources
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmConsultaContaapagar.resources
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmConsultaContaAreceber.resources
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmConsultaFornecedor.resources
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmConsultaUsuario.resources
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmContaAReceber.resources
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\EnvDTE.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\stdole.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.MSXML.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmRelatorioUsuario.resources
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\RdlCompile.cache
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\RdlCompile.compiled
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csproj.CopyComplete
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmRelatorioFornecedor.resources
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmRelatorioCliente.resources
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmRelatorioContaAPagar.resources
+C:\Users\user\Downloads\ProjetoConta 19-04-2023\ProjetoConta\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmRelatorioContaAReceber.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\bdConta.mdf
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\bdConta_log.ldf
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.exe.config
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.exe
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.pdb
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\EnvDTE.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\stdole.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\Microsoft.MSXML.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csprojAssemblyReference.cache
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmCliente.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmConsultaCliente.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmConsultaContaapagar.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmConsultaContaAreceber.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmConsultaFornecedor.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmConsultaUsuario.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmContaAPagar.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmContaAReceber.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmFornecedor.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmPrincipal.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmRelatorioCliente.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmRelatorioContaAPagar.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmRelatorioContaAReceber.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmRelatorioFornecedor.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmRelatorioUsuario.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.FrmUsuario.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.Properties.Resources.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csproj.GenerateResource.cache
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csproj.CopyComplete
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.exe
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.pdb
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmSplashScreen.resources
+C:\Users\user\Downloads\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.frmLogin.resources
